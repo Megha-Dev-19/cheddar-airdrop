@@ -1,0 +1,7 @@
+node_modules
+.bos
+yarn.lock
+test-results
+*.mp4
+.env
+.aider*
